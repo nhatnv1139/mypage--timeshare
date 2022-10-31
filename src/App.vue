@@ -1,14 +1,14 @@
 <template>
   <!-- <ReservationDetail> </ReservationDetail> -->
   <!-- <Observation/> -->
-  <!-- <ObservationDetail/> -->
+  <ObservationDetail/>
   <CreditCard></CreditCard>
 </template>
 
 <script>
 // import ReservationDetail from "./views/ReservationDetail/ReservationDetail.vue";
 // import Observation from "./views/Observation/Observation.vue";
-// import ObservationDetail from "./views/ObservationDetail/ObservationDetail.vue";
+import ObservationDetail from "./views/ObservationDetail/ObservationDetail.vue";
 import CreditCard from "./views/CreditCard/CreditCard.vue";
 
 
@@ -18,7 +18,7 @@ export default {
   components: {
     // ReservationDetail,
     // Observation,
-    // ObservationDetail
+    ObservationDetail,
     CreditCard
   },
 };
