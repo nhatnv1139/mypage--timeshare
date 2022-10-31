@@ -1,0 +1,63 @@
+{
+  "reservation_detail": {
+    "completion_date": "予約完了日時",
+    "status": "ステータス",
+    "method_pay": "お支払い方法",
+    "space_name": "スペース名",
+    "plan_name": "プラン名",
+    "user_date": "ご利用日",
+    "use_time": "ご利用時間",
+    "people": "ご利用人数",
+    "user_purpose": "利用目的",
+    "user_purpose_detail": "利用目的詳細",
+    "register_detail": "ご予約内容",
+    "table": {
+      "people": "ご利用人数",
+      "price":"ルーム料金",
+      "price_per": "ルーム料金",
+      "total": "ルーム料金"
+    },
+    "total_use_area": "レンタルスペース利用料合計",
+    "total_price": " オプション利用料合計",
+    "total": " 合計",
+    "conf irm_space": " スペースからの確認事項",
+    "buy": " オプション",
+    "answer": "スペースからの質問の回答",
+    "message": "スペースからの連絡事項",
+    "information": "スペースへの連絡事項",
+    "required": "内容",
+    "receipt": "領収書"
+  },
+  "observation_detail": {
+    "id": "見学ID",
+    "date_expect": "見学希望日時",
+    "date_expect_use": "利用希望日",
+    "people": "利用予定人数",
+    "plate_check": "見学で確認したいところ"
+  },
+  "credit_card": {
+    "header": "カード情報入力",
+    "credit_card_accept": "ご利用可能なクレジットカード",
+    "credit_description1": "クレジットカード情報の入力間違い等にご注意いただき、下記項目を全て入力し「確認画面へ」を押してください。",
+    "credit_description2": "ご利用いただくクレジットカード情報は、カード名義人の方が入力してください。",
+    "credit_description3": "弊社ではデジタルIDを使用したSSL暗号化技術により、カード情報等を暗号化しています。ご安心ください。",
+    "card_number": "カード番号",
+    "card_number_sub": "※半角入力（ハイフンなし）",
+
+    "end_date": "有効期限",
+    "end_date_sub": "カードの有効期限は通常「月／年（西暦下2桁）」で刻印されています。",
+
+    "card_own": "カード名義人",
+    "card_own_sub": "※半角英字入力",
+
+    "security": "セキュリティコード",
+    "security_sub": "主にカード裏面のご署名欄に印刷されている",
+    "security_sub1": "3桁～4桁の数字です。",
+    "error1": "入力に誤りがあります。確認してください。",
+    "error2": "セキュリティコードを入力して下さい。",
+
+    "btn": "確認画面へ"
+
+
+  }
+}

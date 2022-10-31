@@ -1,0 +1,58 @@
+.observation_main {
+  width: 100%;
+  margin-top: 4px;
+}
+th {
+  text-align: center;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+}
+td {
+  padding: 5px;
+  text-align: left;
+  vertical-align: text-top;
+}
+tr:nth-child(even) {
+  background-color: #fffaf4;
+}
+.colum1 {
+  width: 15%;
+}
+.colum2 {
+  width: 15%;
+}
+.colum3 {
+  width: 35%;
+}
+.colum4 {
+  width: 35%;
+}
+.dataTable td {
+  word-break: break-all;
+  white-space: pre-line;
+}
+.Delete_history {
+  color: #fff;
+  border: 1px solid #8f8f8f;
+  border-radius: 2px;
+  background-color: #8f8f8f;
+  font-weight: 500;
+  margin-top: 3px;
+  padding: 5px;
+  text-align: center;
+  display: inline-block;
+}
+.compose_message {
+  color: #fff;
+  border: 1px solid #52c195;
+  border-radius: 3px;
+  background-color: #52c195;
+  font-weight: 500;
+  margin-top: 2px;
+  padding: 5px;
+  text-align: center;
+  display: inline-block;
+}

@@ -1,0 +1,13 @@
+.layout_form_main {
+  display: flex;
+  /* justify-self: start;
+  align-items: center;
+  color: yellow */
+  /* flex-wrap: wrap; */
+}
+.layout_form_header {
+  width: 25%;
+}
+.layout_form_Child {
+  width: 60%;
+}

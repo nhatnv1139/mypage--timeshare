@@ -1,0 +1,81 @@
+.main_reservation {
+  font-size: 16px;
+  color: #626262;
+}
+.detail_reservation_table {
+  width: 100%;
+  margin-top: 4px;
+}
+
+table,
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 5px;
+}
+
+.colum1 {
+  width: 40%;
+}
+.colum2 {
+  width: 10%;
+}
+.colum3 {
+  width: 10%;
+}
+.colum4 {
+  width: 15%;
+}
+.colum5 {
+  width: 25%;
+}
+.dataTable {
+  word-break: break-all;
+}
+.text_child {
+  margin-right: 5px;
+  /* word-break: break-all; */
+  display: flex;
+}
+.text_child_content {
+  width: 33%;
+  white-space: pre-line;
+}
+.message{
+  background: #ffc07f;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.textarea{
+  width: 100%;
+  background: #eeeeee;
+  padding: 6px 12px;
+}
+.btn_submit{
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  height: 40px;
+  font-size: 14px;
+  background-color: #2ad6a3;
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  margin: 5px auto 8px;
+  padding: 3px;
+  font-weight: 600;
+}
